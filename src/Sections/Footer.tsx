@@ -31,9 +31,9 @@ const Footer = ({className}: {className: string}) => {
           <h2 className="text-base font-bold mb-2">Quick Links</h2>
           <ul className="text-xs font-light flex flex-col space-y-2">
             <li className="hover:underline">
-              <Link href='/'>
+              <a href='https://airizzgenerator.com/'>
                 AI Rizz Generator
-              </Link>
+              </a>
             </li>
             <li className="hover:underline">
               <Link href='/privacy-policy'>
