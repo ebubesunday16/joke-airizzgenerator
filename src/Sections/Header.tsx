@@ -6,12 +6,12 @@ const Header = ({className}: {className: string}) => {
 
   
   return (
-    <header className={`flex items-center justify-between mt-6 ${className}`}>
+    <header className={`flex items-center justify-between mt-6 gap-2 ${className}`}>
         {/* Logo SETUP */}
           <Link href={'/'} className="flex items-center gap-4">
             <HeartLogo />
             <span className="block font-semibold text-sm sm:text-base">AI RIZZ GENERATOR</span>
-            <span className="block font-semibold text-sm sm:text-base bg-red-500 text-white px-1 rounded-[3px]">
+            <span className=" font-semibold text-sm sm:text-base bg-red-500 text-white px-1 rounded-[3px] sm:block hidden">
                 Joke
 
             </span>

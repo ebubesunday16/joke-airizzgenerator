@@ -77,7 +77,7 @@ const Page = ({ params }: Props) => {
 
   const heroText = keywordContent[requestedJoke]?.heroText || defaultHeroText;
 
-  const matchingArray = JokeArray.filter((item) => item.keyword === requestedJoke);
+  const matchingArray = JokeArray.filter((item) => item.keyword === slugify(requestedJoke));
   
   return (
     <section className='space-y-16'>
