@@ -98,7 +98,7 @@ const Page = async ({ params }: Props) => {
           <p className='text-xs text-[#163300]'>{heroText}</p>
           <Button 
             asChild
-            className='shadow-Btn border-2 border-black text-xs text-[#163300] bg-[#FFC107] hover:bg-[#333333] focus:active:bg-[#333333] hover:text-white active:hover:text-white'
+            className='shadow-[2px_2px_0_0_#163300]  border-2 border-black text-xs text-[#163300] bg-[#FFC107] hover:bg-[#333333] focus:active:bg-[#333333] hover:text-white active:hover:text-white'
           >
             <Link href={'/jokes'} className='text-sm font-bold'>
               {`Generate More ${toTitleCase(requestedJoke)} Jokes`.toUpperCase()}
