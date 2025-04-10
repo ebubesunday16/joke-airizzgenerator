@@ -6,6 +6,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import Accordion from './components/accordion';
+import ClickToCopy from './components/clicktoCopy';
 
 type Props = {
   params: {
@@ -107,14 +108,20 @@ const Page = async ({ params }: Props) => {
         </div>
       </div>
 
-      <div className="space-y-4 bg-white border-2 border-black rounded-[4px]">
+      <div className="space-y-4  border-2 border-black rounded-[4px]">
         <ul>
           {matchingArray.map((joke) => (
-            <Accordion 
-              key={joke.id}
-              question={joke.setup}
-              answer={joke.punchline}
-            />
+            <details className="bg-white shadow p-4 border-b border-black rounded-t-[4px] text-[#212529] details-content:mt-3 details-content:-ml-0.5" close>
+              <summary className="text-sm leading-6 font-semibold text-gray-900 cursor-pointer select-none dark:text-[#212529] flex justify-between items-center">
+                <div>{joke.setup}</div>
+                <ClickToCopy content={joke.setup}/>
+                
+              </summary>
+              <div className="transition-all duration-300 ease-in-out     text-sm mt-3 ">
+                {joke.punchline}
+              </div>
+          </details>
+            
           ))}
         </ul>
       </div>
