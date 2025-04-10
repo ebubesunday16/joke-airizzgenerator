@@ -11,7 +11,7 @@ const JokeGenerator = () => {
     const [displayCategory, setDisplayCategory] = useState('')
     const [showLoading, setShowLoading] = useState(false)
     const [showShuffle, setShowShuffle] = useState(true)
-    const [selectedCategory, setSelectedCategory] = useState('Flirty')
+    const [selectedCategory, setSelectedCategory] = useState('coffee')
     const [selectedVibe, setSelectedVibe] = useState('any')
     const [isTyping, setIsTyping] = useState(false)
     const [isTypingCategory, setIsTypingCategory] = useState(false)
