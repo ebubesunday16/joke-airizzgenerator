@@ -15,8 +15,11 @@ type Props = {
 
 // Generate metadata for each dynamic route
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
+
+  const resolvedParams = await params
+  const paramSlug = resolvedParams.slug
   
-  const requestedJoke = getJokeTotalKeyword().find((item) => slugify(item) === params.slug);
+  const requestedJoke = getJokeTotalKeyword().find((item) => slugify(item) === paramSlug);
   
   if(!requestedJoke){
     return {
@@ -39,7 +42,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title: `${matchingArray.length}+ ${capitalizedTitle} Jokes and Puns | AI Joke Generator`,
       description: metaDescription,
       type: 'website',
-      url: `${process.env.NEXT_PUBLIC_BASE_URL}/${params.slug}`,
+      url: `${process.env.NEXT_PUBLIC_BASE_URL}/${paramSlug}`,
     },
     twitter: {
       card: 'summary_large_image',
@@ -47,7 +50,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: metaDescription,
     },
     alternates: {
-      canonical: `${process.env.NEXT_PUBLIC_BASE_URL}/${params.slug}`,
+      canonical: `${process.env.NEXT_PUBLIC_BASE_URL}/${paramSlug}`,
     },
     robots: {
       index: true,
@@ -66,8 +69,11 @@ export async function generateStaticParams() {
   }));
 }
 
-const Page = ({ params }: Props) => {
-  const requestedJoke = getJokeTotalKeyword().find((item) => slugify(item) === params.slug);
+const Page = async ({ params }: Props) => {
+  
+  const resolvedParams = await params
+  const paramSlug = resolvedParams.slug
+  const requestedJoke = getJokeTotalKeyword().find((item) => slugify(item) === paramSlug);
   
   if(!requestedJoke){
     notFound();
