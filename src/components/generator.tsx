@@ -132,7 +132,7 @@ const JokeGenerator = () => {
 
             <div className="self-stretch flex flex-col sm:flex-row justify-between flex-1 pb-4 gap-x-12 gap-y-3">
                 <Button 
-                    className='border-2 border-black text-xs text-[163300] bg-[#FFC107]  hover:bg-[#333333] focus:active:bg-[#333333] hover:text-white active:hover:text-white shadow-Btn flex-1 '
+                    className='border-2 border-black text-xs text-[163300] bg-[#FFC107]  hover:bg-[#333333] focus:active:bg-[#333333] hover:text-white active:hover:text-white shadow-[2px_2px_0_0_#163300]  flex-1 '
                     onClick={() => generateRandomPrompt(true)}
                     disabled={isTyping || isTypingCategory}
                 >
@@ -140,7 +140,7 @@ const JokeGenerator = () => {
                     {fixLoadingConflict &&showLoading && (<Loader className="animate-spin inline" />)}
                 </Button>
                 <Button
-                    className='bg-white text-black hover:bg-[#1f1e1e] active:bg-[#1f1e1e] border-2 border-black text-xs  focus:active:bg-[#333333] hover:text-white active:hover:text-white shadow-Btn flex-1  '
+                    className=' shadow-[2px_2px_0_0_#163300] bg-white text-black hover:bg-[#1f1e1e] active:bg-[#1f1e1e] border-2 border-black text-xs  focus:active:bg-[#333333] hover:text-white active:hover:text-white  flex-1  '
                     onClick={() => generateRandomPrompt(false)}
                     disabled={isTyping || isTypingCategory}
                 >

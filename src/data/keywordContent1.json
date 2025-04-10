@@ -478,5 +478,327 @@
   "otter": {
     "heroText": "Dive into the wonderful world of otter humor with our collection of witty and charming otter jokes! Whether you're a playful kid looking for a giggle, a teacher searching for classroom icebreakers, or an otter enthusiast seeking a good laugh, our jokes will make you smile. Join us in celebrating the adorable antics of these furry creatures through laughter and joy!",
     "metaDescription": "Explore hilarious otter jokes that will brighten your day! Join us for a splash of fun with puns, stories, and giggles. Laugh along with our otter jokes and let the humor whisk you away into a sea of smiles. Dive in now and enjoy the otterly delightful ride!"
+  },
+  
+  "beaver": {
+    "heroText": "Welcome to the wonderful world of beaver jokes! Get ready to chuckle and giggle with our collection of hilarious puns and witty one-liners about these industrious creatures. Whether you're a nature enthusiast or just looking for some light-hearted fun, these jokes will surely brighten your day!",
+    "metaDescription": "Looking for a laugh? Dive into our collection of beaver jokes! From clever puns to silly one-liners, these jokes are sure to bring a smile to your face. Join us for a fun-filled adventure in the world of beavers today!"
+  },
+  "capybara": {
+    "heroText": "Welcome to our capybara joke haven, where laughter roams free! These gentle giants of the rodent world inspire chuckles and fun anecdotes galore. Get ready to giggle with our collection of capybara jokes that will make your day brighter!",
+    "metaDescription": "Discover the funniest capybara jokes online! Join us for a laughter-filled experience with these delightful rodent-themed jokes. Bring joy to your day with our hilarious capybara humor. Get joking now!"
+  },
+  "gopher": {
+    "heroText": "Welcome to the burrow of giggles and chuckles! Dive into our collection of hilarious gopher jokes that are sure to make your day brighter. Whether you're a wildlife enthusiast or just someone looking for a good laugh, these pun-filled jokes will have you rolling on the floor with laughter!",
+    "metaDescription": "Discover a den of laughter with our gopher jokes collection! Perfect for kids, teachers, and gopher enthusiasts. Get ready to giggle and share the joy. Come join the fun now!"
+  },
+  "guinea-pig": {
+    "heroText": "Welcome to the ultimate destination for those who love adorable guinea pigs and a good laugh! Our collection of guinea-pig jokes will have you giggling non-stop. Whether you're a kid, a teacher looking to entertain your class, or a guinea pig enthusiast, these jokes will tickle your funny bone and brighten your day.",
+    "metaDescription": "Get ready to laugh with the funniest guinea-pig jokes collection! Join us for a guaranteed dose of cuteness and humor in every punchline. Perfect for kids, teachers, and all guinea-pig lovers. Click now for a dose of pure joy!"
+  },
+  "hamster": {
+    "heroText": "Welcome to the ultimate hamster joke collection where giggles and grins galore await! From cheeky antics to adorable puns, these jokes will tickle your funny bone and brighten your day, whether you're a hamster enthusiast or just looking for a good laugh.",
+    "metaDescription": "Get ready to squeal with laughter at our hilarious hamster jokes! Join us for a furry feast of puns and antics that will have you rolling on the floor. Have a giggle-filled day and share the joy with friends! 🐹😄 #hamsterjokes #funnybone #laughter"
+  },
+  "gerbil": {
+    "heroText": "Welcome to the ultimate hub of gerbil humor! Our collection of jokes will have you rolling with laughter in no time. Whether you're a curious kid, a gerbil enthusiast, or a teacher looking to add some fun to your lessons, these jokes are sure to brighten your day!",
+    "metaDescription": "Looking for a good laugh? Dive into our hilarious gerbil joke collection! From kids to teachers to gerbil enthusiasts, there's something for everyone. Get ready to giggle - check it out now!"
+  },
+  "chinchilla": {
+    "heroText": "Welcome to the world of chinchilla jokes, where fluffy cuteness meets hilarious punchlines! Whether you're a chinchilla enthusiast, teacher looking to brighten your students' day, or just someone who appreciates a good laugh, get ready for a barrel of laughs with our collection of puns, one-liners, and witty chinchilla humor.",
+    "metaDescription": "Get ready to chuckle with our collection of chinchilla jokes! Dive into a fluffy world of humor with puns, one-liners, and more. Brighten your day with adorable chinchilla comedy and share the laughter. Let the fun begin!"
+  },
+  "walrus": {
+    "heroText": "Dive into the wonderful world of walrus humor with our collection of witty and whimsical walrus jokes! From puns to one-liners, these jokes are sure to bring a smile to your face and a chuckle to your day.",
+    "metaDescription": "Get ready to laugh with our hilarious walrus jokes collection! Find the best walrus-themed humor that will brighten your day. Share the fun and spread the joy! Let the walrus jokes adventure begin!"
+  },
+  "rabbit": {
+    "heroText": "Hop into a world of laughter with our collection of rib-tickling rabbit jokes! From fluffy tails to floppy ears, these jokes are sure to tickle your funny bone and brighten your day. Whether you're a bunny enthusiast or just love a good chuckle, these jokes are perfect for everyone!",
+    "metaDescription": "Looking for hilarious rabbit jokes to hop up your day? Dive into our collection of bunny humor that will make you laugh out loud! Perfect for kids, teachers, and anyone who needs a smile. Hop on over and start giggling today!"
+  },
+  "rat": {
+    "heroText": "Welcome to the rodent realm of laughter! Our collection of rat jokes will have you squeaking with joy. Whether you're a rodent enthusiast, teacher looking to lighten the mood, or just someone who appreciates cheesy humor, these jokes are sure to tickle your whiskers!",
+    "metaDescription": "Get ready to chuckle with our hilarious collection of rat jokes! Perfect for kids, teachers, or anyone who enjoys a good laugh. Explore now and let the fun begin!"
+  },
+  "mouse": {
+    "heroText": "Welcome to our squeak-tacular world of mouse jokes! Whether you're a cheese connoisseur or just love a good laugh, our collection of witty rodent humor will have you chuckling in no time. From cheesy puns to whisker-twitching punchlines, get ready for a paw-some time!",
+    "metaDescription": "Get ready to giggle with our mouse joke collection! Enjoy a wide variety of hilarious rodent-related humor that will have you squeaking with joy. Find the perfect joke to share with friends and family. Let the laughter begin!"
+  },
+  "squirrel": {
+    "heroText": "Welcome to the nutty world of squirrel jokes! Get ready to go nuts with laughter as you explore our collection of hilarious jokes about these furry acrobats of the tree-tops. Whether you're a squirrel enthusiast or just looking for some fun entertainment, our jokes will have you cracking up like a squirrel cracking a nut!",
+    "metaDescription": "Discover a treasure trove of side-splitting squirrel jokes that will have you giggling like a chipmunk in a peanut factory! Join the fun and unleash your inner comedian with our nutty collection. Get ready to laugh out loud - start reading now!"
+  },
+  "hedgehog": {
+    "heroText": "Welcome to the world of hedgehog humor! Get ready to roll with laughter as you explore a delightful array of hedgehog jokes that will tickle your funny bone. Whether you are a hedgehog enthusiast, teacher looking for a fun classroom activity, or just someone who enjoys a good chuckle, these jokes are bound to make your day brighter!",
+    "metaDescription": "Discover a hilarious collection of hedgehog jokes that will make you smile! Dive into our funny hedgehog jokes and brighten your day with laughter. Find the perfect joke to share with friends and family. Laugh out loud with the best hedgehog humor now!"
+  },
+  "porcupine": {
+    "heroText": "Welcome to the prickliest place on the internet! Get ready to giggle and grin with our collection of hilarious porcupine jokes. From sharp quips to belly-aching puns, we've got a spiky surprise in store for you!",
+    "metaDescription": "Looking for a good laugh? Dive into our collection of porcupine jokes for some sharp humor and lots of laughs. Discover the fun side of these spiky creatures and share the joy! Let the laughter begin!"
+  },
+  "griffin": {
+    "heroText": "Step into the magical world of griffin jokes and let your imagination take flight! Our collection of whimsical and humorous griffin-themed jokes will keep you entertained for hours. Perfect for kids, teachers, and fantasy enthusiasts alike, these jokes blend fantasy with fun, making them the perfect choice for a good laugh.",
+    "metaDescription": "Explore a treasure trove of griffin jokes that will spark your imagination and tickle your funny bone! Our collection offers a delightful mix of fantasy and humor, perfect for kids, teachers, and fantasy enthusiasts. Get ready to soar with laughter! Dive in now for a dose of mythical merriment!"
+  },
+  "unicorn": {
+    "heroText": "Do you need a good laugh? Dive into a magical world of laughter with our collection of hilarious unicorn jokes! Whether you're a kid, a teacher, or a unicorn enthusiast, these jokes will brighten your day!",
+    "metaDescription": "Discover a treasure trove of unicorn jokes that will make you giggle! Get ready to chuckle with our fun-filled jokes. Laugh your heart out, share the joy! Visit now!"
+  },
+  "pegasus": {
+    "heroText": "Hey there! Get ready to soar into a world of laughter with our fantastic collection of pegasus jokes. From mythical mishaps to winged wonders, these jokes are sure to tickle your funny bone!",
+    "metaDescription": "Explore a magical realm of humor with the best pegasus jokes around! Laugh out loud with mythical puns and sky-high humor. Fly over now for a good chuckle!"
+  },
+  "hippogriff": {
+    "heroText": "Hey there! Get ready to chuckle with the most hilarious hippogriff jokes around. Whether you're a kid, teacher, or a mythical creature enthusiast, these jokes will have you laughing non-stop!",
+    "metaDescription": "Enjoy a collection of side-splitting hippogriff jokes! Delight in the laughter, share with friends, and let the magical humor of hippogriffs brighten your day. Start laughing now!"
+  },
+  "centaur": {
+    "heroText": "Hey there! Curious about mythical creatures? Dive into a magical world filled with hilarious centaur jokes that will tickle your funny bone. Whether you're a kid, a teacher, or just a fan of fantasy, these jokes are sure to brighten your day!",
+    "metaDescription": "Explore a trove of funny centaur jokes that will make you laugh out loud! Perfect for kids, teachers, and fantasy enthusiasts looking for a good chuckle. Get ready to giggle - check out our centaur joke collection now!"
+  },
+  "minotaur": {
+    "heroText": "Love mythical creatures and corny jokes? Dive into our collection of hilarious minotaur jokes that will have you laughing out loud. Whether you're a mythology buff, a joke enthusiast, or just looking for a good laugh, our minotaur jokes are sure to brighten your day!",
+    "metaDescription": "Get ready to giggle with our side-splitting minotaur jokes collection! Join the fun and brighten your day with these mythical and hilarious jokes. Laugh your way through the maze of humor - check them out now!"
+  },
+  "dragon": {
+    "heroText": "Love dragons? Get ready to roar with laughter! Dive into a treasure trove of fiery fun with our dragon joke collection. Whether you're a little dragon fan or a big dragon enthusiast, these jokes will make you breathe fire with laughter!",
+    "metaDescription": "Discover a den of dragon jokes that will fire up your day! Laugh out loud with our dragon jokes for kids, teachers, and enthusiasts. Unleash the fun, share the joy, and spread the fire! Let the laughter begin!"
+  },
+  "phoenix": {
+    "heroText": "Hey there! Ready to crack up with some fiery humor? Dive into our collection of hilarious phoenix jokes that will have you laughing like never before. Whether you're a kid, a teacher, or a phoenix enthusiast, these jokes are sure to brighten your day!",
+    "metaDescription": "Looking for a good laugh? Explore our collection of phoenix jokes that will ignite your joy! Join us for a fun-filled journey with witty puns, fiery humor, and lots of laughter. Enjoy the magic of phoenix jokes now!"
+  },
+  "mermaid": {
+    "heroText": "Dive into giggles and fun with our sea-sational collection of mermaid jokes! From mer-mazing puns to fin-tastic one-liners, get ready to make a splash with laughter!",
+    "metaDescription": "Get ready to giggle with our fin-tastic mermaid jokes! Swim into a sea of laughter with puns, one-liners, and more. Make waves of fun - dive in now!"
+  },
+  "merman": {
+    "heroText": "Dive into a sea of laughter with our fin-tastic collection of merman jokes! Unleash waves of giggles and make a splash with these hilarious underwater humor nuggets. Get ready to embark on a laughter voyage that'll have you hooked!",
+    "metaDescription": "Make a splash with our merman jokes! Dive deep into humor with our collection of hilarious underwater jokes that will leave you in stitches. Share the fun and spread the laughter! Start laughing now!"
+  },
+  "sphinx": {
+    "heroText": "Hey there! Ready to have a roaring good time with some hilarious sphinx jokes? Get ready to laugh out loud with our collection of puns and riddles that will make your day brighter!",
+    "metaDescription": "Looking for a laugh? Dive into our collection of funny sphinx jokes! From clever puns to witty riddles, these jokes will tickle your funny bone. Join the fun now!"
+  },
+  "elf": {
+    "heroText": "Get ready to giggle with our collection of hilarious elf jokes! Whether you're a kid, a teacher, or an elf enthusiast, these jokes will brighten your day and tickle your funny bone.",
+    "metaDescription": "Discover a merry world of elf jokes that will bring smiles and laughter! Join the fun and enjoy a fantastic array of puns, riddles, and one-liners. Laugh with us now!"
+  },
+  "goblin": {
+    "heroText": "Get ready to giggle with our goblin joke collection! From mischievous pranks to funny riddles, these jokes are perfect for kids and goblin enthusiasts alike.",
+    "metaDescription": "Unleash the laughter with our goblin jokes! Enjoy a mix of hilarious pranks and witty riddles that will tickle your funny bone. Check out our collection now and let the goblin fun begin!"
+  },
+  "fairy": {
+    "heroText": "Hey there! Ready to sprinkle some fairy-tale magic into your day? Dive into our collection of enchanting fairy jokes that will tickle your funny bone and make you believe in the whimsical world of fairies!",
+    "metaDescription": "Unleash the laughter with our whimsical fairy jokes collection! Get ready to giggle and spark your imagination with these delightful jokes. Join us now for a dose of fairy fun!"
+  },
+  "troll": {
+    "heroText": "Looking for a good laugh? Dive into our hilarious world of troll jokes! Whether you're a kid, teacher, or just a joke enthusiast, get ready to chuckle your way through some of the funniest troll-themed jokes around.",
+    "metaDescription": "Get ready to LOL with our collection of troll jokes! Dive into a world of humor, perfect for kids, teachers, and joke enthusiasts. Laugh your heart out and spread the joy. Visit now for a troll-tastic time!"
+  },
+  "orc": {
+    "heroText": "Hey there! Are you ready for a laugh attack? Dive into our collection of hilarious orc jokes that will make you roar with laughter. Whether you're a fantasy fan, gamer, or just love a good chuckle, these jokes are bound to tickle your funny bone!",
+    "metaDescription": "Explore the fun world of orc jokes! Laugh out loud with our collection of side-splitting orc jokes that are perfect for fantasy lovers, gamers, and anyone in need of a good giggle. Get ready to LOL - Click to enjoy the humor!"
+  },
+  "leprechaun": {
+    "heroText": "Do you want to fill your day with giggles and grins? Dive into our treasure trove of leprechaun jokes that will make you chuckle like a pot of gold at the end of a rainbow!",
+    "metaDescription": "Looking for fun? Enjoy hilarious leprechaun jokes that will bring laughter to your day. Find the best jokes here and get ready to be entertained! Laugh with us!"
+  },
+  "yeti": {
+    "heroText": "Get ready to giggle and chuckle with our awesome collection of hilarious yeti jokes! Whether you're a kid, a teacher, or a yeti enthusiast, these jokes will have you roaring with laughter in no time.",
+    "metaDescription": "Looking for a good laugh? Dive into our side-splitting world of yeti jokes! From silly puns to witty one-liners, these jokes will make your day brighter. Grab a friend and let the laughter begin!"
+  },
+  "snowman": {
+    "heroText": "Hey there! Love snowmen? Get ready to giggle with our frosty collection of snowman jokes that will melt your worries away and brighten your day. Whether you're a kid, a teacher, or just a snowman enthusiast, these jokes are perfect for snow much fun!",
+    "metaDescription": "Laugh out loud with our snowman jokes! Frosty fun awaits with our collection of hilarious jokes about snowmen. Brighten your day with a dose of winter humor. Find your favorite joke and share the laughter today! ❄️⛄"
+  },
+  "bird": {
+    "heroText": "Do you love good laughs and feathered friends? Get ready to giggle with our collection of hilarious bird jokes! From wise old owls to cheeky parrots, these jokes will have you chirping with joy!",
+    "metaDescription": "Enjoy a flock of funny bird jokes! Laugh out loud with our feathered collection, guaranteed to brighten your day. Share the fun and wings of laughter! Quack up now!"
+  },
+  "owl": {
+    "heroText": "Discover a hoot-worthy collection of owl jokes that will have you giggling like a nest of baby owlets! Whether you're a wise teacher, a curious kid, or a night owl enthusiast, these jokes are sure to brighten your day.",
+    "metaDescription": "Explore rib-tickling owl jokes that will make you owl with laughter! Enjoy a flock of puns, riddles, and funny owl anecdotes. Laugh your feathers off and share the joy with friends and family!"
+  },
+  "pelican": {
+    "heroText": "Hey there! Get ready to soar into a world of laughter with our hilarious pelican jokes collection. Whether you're a kid, a teacher, or a pelican enthusiast, these jokes are sure to make your day brighter!",
+    "metaDescription": "Looking for a good laugh? Dive into our pelican jokes collection! Enjoy funny one-liners and puns guaranteed to make you smile. Laugh out loud and share the joy with your friends! Let's spread some pelican fun together!"
+  },
+  "pigeon": {
+    "heroText": "Love a good laugh? Dive into our flock of pigeon jokes that will have you cooing with joy! Whether you're a kid, teacher, or pigeon enthusiast, these jokes will tickle your feathers!",
+    "metaDescription": "Get ready to laugh with our hilarious pigeon jokes collection! Perfect for kids, teachers, and pigeon fans. Fly in for a chuckle and brighten your day! Don't miss out, start giggling now!"
+  },
+  "sparrow": {
+    "heroText": "Get ready to chirp with joy! Dive into a world of feathered fun with our collection of hilarious sparrow jokes. Whether you're a bird enthusiast or just love a good laugh, these puns will have you flying high!",
+    "metaDescription": "Explore a nest of laughter with our sparrow jokes collection! From chirpy puns to feather-ruffling humor, these jokes will make your spirits soar. Fly over for a beakful of giggles now!"
+  },
+  "peacock": {
+    "heroText": "Get ready to laugh out loud with our collection of hilarious peacock jokes! Whether you're a kid, teacher, or peacock enthusiast, these jokes will tickle your funny bone and brighten your day.",
+    "metaDescription": "Looking for a fun time? Explore the best peacock jokes here! Join the laughter with jokes that will make you squawk with joy. Share the fun – start chuckling now!"
+  },
+  "toucan": {
+    "heroText": "Love a good laugh? Dive into a flock of colorful toucan jokes that will brighten your day! From silly beak puns to feather-filled giggles, this collection is perfect for bird lovers of all ages.",
+    "metaDescription": "Looking for a burst of joy? Enjoy a beakful of toucan jokes guaranteed to make you chirp with laughter! Discover the fun and feathers today - squawk on over for a good time!"
+  },
+  "vulture": {
+    "heroText": "Ever wondered what makes vultures the kings of sky humor? Dive into our collection of vulture jokes and soar with laughter! Perfect for kids, teachers, or anyone fascinated by these fascinating feathered creatures!",
+    "metaDescription": "Laugh out loud with our hilarious vulture jokes collection! Join us for a flock of fun as we share puns, one-liners, and more about these majestic birds. Fly over now for a feast of feathered humor!"
+  },
+  "flamingo": {
+    "heroText": "Hey there! Want to add some fun and laughter to your day? Get ready to flock to our flamingo jokes collection! These feathered friends are not just elegant but also great comedians. Dive in and let the giggles begin!",
+    "metaDescription": "Brighten your day with our hilarious flamingo jokes! Laugh along with these feathered jesters and spread joy. Visit now for a flamingo-tastic time! Let the comedy show begin!"
+  },
+  "swallow": {
+    "heroText": "Hey there! Ready to dive into a world of hilarious swallow jokes that will tickle your funny bone? Whether you're a bird lover, a joke enthusiast, or just looking for a good laugh, we've got you covered with the best swallow jokes around!",
+    "metaDescription": "Looking for a good laugh? Explore our collection of entertaining swallow jokes that will make your day brighter! From bird enthusiasts to comedy lovers, everyone will enjoy these light-hearted jokes. Get ready to chuckle and share the fun with friends!"
+  },
+  "parrot": {
+    "heroText": "Hey there! Get ready to squawk with laughter with our collection of hilarious parrot jokes. Whether you're a kid, a teacher, or just a parrot enthusiast, these jokes will chirp up your day!",
+    "metaDescription": "Discover a treasure trove of funny parrot jokes that will make you feather-light with laughter! Dive in for chirpy fun and share the giggles with your flock! Squawk on over now!"
+  },
+  "eagle": {
+    "heroText": "Hey there! Get ready to soar with laughter as we bring you a collection of hilarious eagle jokes that will have you flapping with joy. Whether you're a kid, teacher, or eagle enthusiast, these jokes are sure to make your feathers ruffle with delight!",
+    "metaDescription": "Fly high with our collection of eagle jokes! Laugh out loud with these feathered friends as you explore the funny side of eagles. Join us for a sky-high adventure in jokes! Let's start laughing together!"
+  },
+  "swan": {
+    "heroText": "Have a quacking good time with our collection of hilarious swan jokes! From puns to one-liners, get ready to spread your wings and giggle with these feathered friends. Let's dive into a laughter pond together!",
+    "metaDescription": "Looking for funny swan jokes? Dive into our collection for a beak-tacular time! Enjoy puns, one-liners, and more feathers of fun. Laugh your way through our pond of humor now!"
+  },
+  "raven": {
+    "heroText": "Ready to caw with laughter? Our raven jokes collection will have you spreading your wings with joy! Whether you're a kid, teacher, or bird enthusiast, these jokes will tickle your funny bone.",
+    "metaDescription": "Explore a flock of hilarious raven jokes! Fun for kids, teachers, and enthusiasts. Squawk with delight at our feathered humor - dive in for a hoot of laughter!"
+  },
+  "magpie": {
+    "heroText": "Get ready to chuckle with our collection of hilarious magpie jokes! Whether you're a bird enthusiast, teacher, or just looking for a good laugh, these jokes will brighten your day.",
+    "metaDescription": "Discover the best magpie jokes that will have you caw-cawing with laughter! Perfect for kids, teachers, and bird lovers. Have a blast and share these jokes today!"
+  },
+  "turkey": {
+    "heroText": "Hey there! Get ready to gobble up some laughs with our turkey-themed joke collection. From silly gobbling antics to feathered friends on funny adventures, these jokes will have you laughing all day long!",
+    "metaDescription": "Looking for some gobble-worthy fun? Dive into our hilarious collection of turkey jokes! Let these feathered funny tales tickle your funny bone and make your day brighter. Laugh along and share the joy with friends!"
+  },
+  "penguin": {
+    "heroText": "Are you ready to dive into a world of laughter with our collection of hilarious penguin jokes? Whether you're a kid looking for giggles, a teacher wanting to entertain your class, or simply a penguin enthusiast, these jokes are sure to make your day brighter!",
+    "metaDescription": "Get ready to LOL with our side-splitting penguin jokes! Perfect for kids, teachers, and penguin lovers. Have a laugh today and share the fun with your friends!"
+  },
+  "goose": {
+    "heroText": "Hey there! Ready to crack up with the funniest goose jokes in town? Get your feathers ruffled and honk your way through a collection of hilarious quips that will have you giggling non-stop!",
+    "metaDescription": "Looking for a laugh? Dive into a treasure trove of gut-busting goose jokes! Join us for a feather-filled adventure of laughter and share the joy with your friends. Honk if you're ready for a good time!"
+  },
+  "seagull": {
+    "heroText": "Dive into the hilarious world of seagull jokes! From silly squawks to feathered fun, our collection will have you soaring with laughter. Whether you're a bird lover, a joke aficionado, or just looking to brighten your day, these jokes will make you caw with delight!",
+    "metaDescription": "Looking for a fun laugh? Explore our seagull jokes for a feathered good time! Get ready to giggle with our collection of puns and quips. Fly over here and let the laughter take wing!"
+  },
+  "woodpecker": {
+    "heroText": "Hey there! Get ready to knock on the door of laughter with our collection of hilarious woodpecker jokes. Whether you're a curious kid, a teacher looking to entertain students, or a woodpecker enthusiast, these jokes will peck your funny bone!",
+    "metaDescription": "Peck away the blues with our side-splitting woodpecker jokes collection! Join us for a laughter extravaganza filled with puns, riddles, and witty one-liners. Let's start the fun - click here now!"
+  },
+  "duck": {
+    "heroText": "Looking for a quacking good time? Dive into our pond of hilarious duck jokes that will make you quack up. Whether you're a kid looking for fun or a teacher seeking classroom laughs, our feathered friends have you covered!",
+    "metaDescription": "Enjoy a pond full of duck jokes! Laugh your feathers off with our delightful collection, perfect for kids, teachers, and duck enthusiasts. Quack your way to fun today!"
+  },
+  "cockatiel": {
+    "heroText": "Get ready to chirp with joy with our flock of hilarious cockatiel jokes! Whether you're a bird enthusiast or just looking to feather your day with laughter, our chirpy collection will have you squawking with delight.",
+    "metaDescription": "Laugh your tail feathers off with our top-notch cockatiel jokes! Join the fun flock and chirp away with these hilarious feathered friends. Squawk, laugh, repeat - visit now for a beak-full of giggles!"
+  },
+  "pheasant": {
+    "heroText": "Want to quack up your friends or class with some feather-ruffling fun? Dive into our beak-tacular collection of pheasant jokes that are sure to make everyone cackle with laughter! Let's pluck out the boredom and have a wingding time together!",
+    "metaDescription": "Get ready to chirp with joy as you explore our egg-citing pheasant jokes! Laugh till your feathers ruffle with our hilarious compilation that will make you the life of the party. Join the fun now and let the jokes take flight!"
+  },
+  "ostrich": {
+    "heroText": "Do you love laughing? Get ready for a flock of fun with our collection of hilarious ostrich jokes! Whether you're a kid, teacher, or simply an animal enthusiast, these jokes will make your day brighter!",
+    "metaDescription": "Looking for a good laugh? Dive into our entertaining ostrich jokes! Unleash the giggles with our feathered friends and brighten your day. Get ready to chuckle with the best ostrich jokes - check them out now!"
+  },
+  "chicken": {
+    "heroText": "Hey there! Get ready to laugh your feathers off with our egg-citing collection of chicken jokes. Whether you're a kid, a teacher, or a clucking enthusiast, these jokes will surely make your day!",
+    "metaDescription": "Discover the funniest chicken jokes around! Our cluck-worthy collection will have you cracking up in no time. Join the fun and feather your sense of humor today!"
+  },
+  "goldfinch": {
+    "heroText": "Love laughing? Get ready to chirp with joy at our collection of hilarious goldfinch jokes! Whether you're a bird lover, a joke enthusiast, or just looking for a good time, these feathered puns will have you tweeting for more!",
+    "metaDescription": "Discover a flock of side-splitting goldfinch jokes that will make you soar with laughter! Join us for a feathered feast of fun and giggles - chirp along and spread the joy today!"
+  },
+  "hummingbird": {
+    "heroText": "Get ready to chuckle with our fantastic collection of hilarious hummingbird jokes! Whether you're a kid, a teacher, or an enthusiast, these jokes will surely make you laugh out loud while learning more about these tiny and amazing birds!",
+    "metaDescription": "Looking for a good laugh? Explore our collection of funny hummingbird jokes that will brighten your day! Perfect for kids, teachers, and bird enthusiasts. Click here to crack a smile now!"
+  },
+  "crow": {
+    "heroText": "Looking for a murderously good time? Dive into our nest of hilarious crow jokes that will have you cawing with laughter. Whether you're a bird enthusiast or just looking for a beak-tastic time, these jokes will have you flying high!",
+    "metaDescription": "Get ready to soar with laughter with our collection of crow jokes! Perfect for bird lovers, teachers, and anyone who loves a good caw-medic moment. Fly over to our website now and start cracking up!"
+  },
+  "budgie": {
+    "heroText": "Love budgies? Get ready to chirp with laughter! Our collection of budgie jokes will make you flutter with joy. Whether you're a newbie or a seasoned bird lover, these jokes will brighten your day.",
+    "metaDescription": "Looking for funny budgie jokes? Dive into a world of feathered fun with our hilarious collection. Chirp away boredom and share the laughter with your friends! Find your favorite jokes now!"
+  },
+  "hawk": {
+    "heroText": "Hooray for hawk jokes! Get ready to caw with laughter as you explore our collection of feathered funnies. Whether you're a bird lover or just looking for a good chuckle, these jokes are sure to make your wings flap with joy!",
+    "metaDescription": "Have a hoot with our hilarious hawk jokes! Fly into a world of laughter with our feathered friends. Perfect for kids, teachers, and bird enthusiasts. Squawk and share the fun today!"
+  },
+  "mango": {
+    "heroText": "Hey there! Get ready for a peel-arious time with our juicy collection of mango jokes. From fruity puns to sweet laughs, this is the zest you need to brighten your day!",
+    "metaDescription": "Looking for a ripe source of fun? Dive into our mango jokes garden for a bushel of laughter! Enjoy fruity puns, juicy humor, and a mango-lous time. Let's giggle together!"
+  },
+  "cheese": {
+    "heroText": "Love cheese? Get ready to crack up! Our cheesy jokes will make you melt with laughter. From gouda puns to cheddar chuckles, this collection is grate for cheese enthusiasts of all ages!",
+    "metaDescription": "Indulge in hilarious cheese jokes that are funnier than a wheel of Swiss! Discover cheesy puns and one-liners that will brie-ghten your day. Laugh out loud and share the joy with friends! Say cheese and get your daily dose of humor now."
+  },
+  "fruit": {
+    "heroText": "Love fruit? Dive into a world of fruity fun with our collection of hilarious fruit jokes! From punny punchlines to berry funny one-liners, get ready to go bananas with laughter!",
+    "metaDescription": "Get your daily dose of laughter with our juicy fruit jokes! Packed with humor that will make you smile from apple to orange, dive in now for fruity giggles. Time to add a peel of joy to your day!"
+  },
+  "gouda": {
+    "heroText": "Love cheese and laughter? You're in the right place! Dive into a world of cheesy goodness with our collection of hilarious gouda jokes. From puns to groaners, get ready for a gouda time!",
+    "metaDescription": "Crack a smile with our gouda jokes collection! Cheesy puns and laughs await. Explore for a fun time! Keep laughing with us every day!"
+  },
+  "berry": {
+    "heroText": "Hey there berry lovers! Get ready to chuckle with our berry funny jokes. Whether you’re a berry enthusiast or just love a good laugh, this collection will definitely tickle your funny bone!",
+    "metaDescription": "Looking for a berry good time? Dive into our berry jokes collection for berry enthusiasts, kids, and humor lovers. Laugh your way through berrylicious humor & brighten your day!"
+  },
+  "strawberry": {
+    "heroText": "Do you want a berry good time filled with laughter? Get ready to chuckle and giggle with our juicy collection of hilarious strawberry jokes! Whether you're a little munchkin, a teacher, or a berry enthusiast, there's something sweet here for everyone!",
+    "metaDescription": "Indulge in a berrylicious giggle fest with our strawberry jokes! Explore puns, one-liners, and more to tickle your funny bone. Join the berry fun now and let the laughter begin!"
+  },
+  "mozzarella": {
+    "heroText": "Love mozzarella? Get ready to laugh till you say 'cheese' with our collection of cheesy mozzarella jokes! Whether you're a cheese enthusiast or just looking for some Gouda jokes, you're in the right place!",
+    "metaDescription": "Cheese lovers unite! Dive into a barrel of laughter with our cheesy mozzarella jokes collection! Get ready to crack up with the best cheese jokes around. Say 'hello' to fun and 'goodbye' to boredom! Check them out now!"
+  },
+  "avocado": {
+    "heroText": "Love avocados? Get ready to split your sides with our hilarious avocado jokes collection! Perfect for sharing with friends or lightening the mood at any party.",
+    "metaDescription": "Looking for a guac-load of fun? Enjoy our avocado jokes! Laugh your way through the best avocado humor, share a smile today!"
+  },
+  "orange": {
+    "heroText": "Hey there! Ready for a peel of laughter? Dive into our juicy collection of orange jokes that will zest up your day with silly puns and fruity humor. Whether you're a kid, a teacher, or just an orange enthusiast, there's a joke here for everyone!",
+    "metaDescription": "Get ready to chuckle at our hilarious orange jokes! Brighten your day with pun-tastic humor about oranges. Visit now for a refreshing dose of laughter! 🍊😂"
+  },
+  "papaya": {
+    "heroText": "Hey there! Ready to have a peeling good time? Get ready to laugh out loud with the juiciest papaya jokes around. Whether you're a fruit enthusiast or just looking for a good chuckle, these jokes will surely make your day sweeter!",
+    "metaDescription": "Looking for a fun break? Dive into hilarious papaya jokes that will crack you up! Enjoy a fruity laugh riot with our collection. Come on, let's have a laugh together!"
+  },
+  "popcorn": {
+    "heroText": "Love popcorn? Get ready to laugh with our corny collection of popcorn jokes! Whether you're a popcorn addict or just enjoy a good giggle, these jokes are sure to pop a smile on your face!",
+    "metaDescription": "Indulge in a bucketful of laughter with our hilarious popcorn jokes collection! Perfect for popcorn lovers and joke enthusiasts alike. Join the fun and let the laughter pop - check out our jokes now!"
+  },
+  "salad": {
+    "heroText": "Ready for a hearty dose of laughter? Dive into our garden of salad jokes that will leave you chuckling with every bite. Whether you're a seasoned salad lover or just leaf-ing through, these jokes are sure to add a healthy dash of humor to your day.",
+    "metaDescription": "Looking for a fresh serving of laughs? Explore our crisp collection of salad jokes! Guaranteed to tickle your funny bone while you crunch away. Add some zest to your day - Dive into our salad jokes now!"
+  },
+  "mustard": {
+    "heroText": "Get ready to relish a barrel of laughs with our collection of mustard jokes! Whether you're a ketchup connoisseur or a mustard maestro, these jokes will add zest to your day.",
+    "metaDescription": "Spice up your day with our hilarious mustard jokes collection! Dive into a world of silly condiment humor that will make you relish the fun. Laugh along and spread the joy! Check out our mustard jokes now!"
+  },
+  "pineapple": {
+    "heroText": "Ready to add some laughter to your day? Dive into a world of fruity fun with our pineapple jokes collection! From silly puns to hilarious one-liners, get ready to giggle with every juicy punchline.",
+    "metaDescription": "Looking for a taste of humor? Explore our collection of pineapple jokes for non-stop entertainment! Giggle your way through fruity fun with puns and one-liners that will leave you craving for more laughs. Click here for a good chuckle!"
+  },
+  "melon": {
+    "heroText": "Get ready to laugh out loud with our juicy collection of melon jokes! From watermelons to cantaloupes, we've got puns and one-liners that will make your day. Whether you're a kid, a teacher, or just a melon enthusiast, these jokes are perfect for you!",
+    "metaDescription": "Looking for a sweet treat? Dive into our hilarious melon jokes collection! Find the funniest watermelon and cantaloupe puns here. Laugh your way through juicy humor - perfect for kids, teachers, and melon lovers. Get your daily dose of laughter now!"
+  },
+  "turnip": {
+    "heroText": "Want a good laugh? Dive into our collection of hilarious turnip jokes that will tickle your funny bone! Whether you're a kid, teacher, or just a turnip enthusiast, get ready for some rootin'-tootin' fun!",
+    "metaDescription": "Enjoy the best turnip jokes around! Join us for a laugh riot with our curated list of puns and one-liners. Get ready to giggle and share the joy! Find your favorite turnip joke now!"
+  },
+  "pear": {
+    "heroText": "Get ready to giggle and grin with our juicy collection of pear jokes! Whether you're a fruit fanatic, a classroom clown, or just in need of a good chuckle, these jokes are 'pear'fect for you!",
+    "metaDescription": "Looking for a 'pear'fect way to add some fun to your day? Dive into our hilarious pear jokes collection for a fruity good time. Laugh out loud and share the joy now!"
   }
+
 }
